@@ -16,7 +16,7 @@ openpyxl==3.0.9
 packaging
 pandas
 plotly
+ppscore
 seaborn
 scikit-learn
 wordcloud
-d
