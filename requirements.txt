@@ -1,4 +1,5 @@
 altair
+bezier
 black
 dash
 folium
