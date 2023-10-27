@@ -166,3 +166,4 @@ labs/**
 data_secret
 data_secret/**
 
+.DS_Store
