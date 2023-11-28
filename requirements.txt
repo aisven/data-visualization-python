@@ -4,8 +4,10 @@ black
 dash
 folium
 httpx
+hypertools
 ipykernel
 ipython
+ipywidgets
 jupyter_client
 jupyter_core
 matplotlib
@@ -20,4 +22,5 @@ plotly
 ppscore
 seaborn
 scikit-learn
+tqdm
 wordcloud
